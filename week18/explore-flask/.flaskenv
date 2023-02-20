@@ -1,0 +1,3 @@
+FLASK_APP=app
+FLASK_ENV=development
+SECRET_KEY=d5sh73pl3n555t4p2tt0vm2uvg48dfpyjf3e29ieg7mig4cz3b
